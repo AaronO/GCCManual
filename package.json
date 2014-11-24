@@ -4,6 +4,7 @@
     "dependencies": {
         "gitbook-plugin-mixpanel": "*",
         "gitbook-plugin-autocover": "*",
-        "gitbook-plugin-anchors": "*"
+        "gitbook-plugin-anchors": "*",
+        "gitbook-plugin-toc": "*"
     }
 }
