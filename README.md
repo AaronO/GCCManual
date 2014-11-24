@@ -1,4 +1,3 @@
-
 # Genome Compiler
 User Manual
 V.0.5
